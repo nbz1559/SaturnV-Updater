@@ -1,3 +1,9 @@
+# Updater - Version 1.3
+- Fixed some bugs
+- Imrpoved the UI
+- Added a progress bar when updating
+
+
 # Updater - Version 1.1
 - Fixed some bugs
 - Added Launch GTA
