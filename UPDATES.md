@@ -1,3 +1,7 @@
+# Menu - Version 11.4.0
+- Fixed some issues with activation and the UI
+
+
 # Updater - Version 1.3
 - Fixed some bugs
 - Imrpoved the UI
