@@ -1,4 +1,8 @@
-# Updater - Version 1.45
+# Updater - Version 1.5
+- Made it so if legacy or enhanced is running you are now able to stop it from the updater
+
+
+# Updater - Version 1.4
 - Fixed some issues with UI
 - Added support for GTA Enhanced
 
