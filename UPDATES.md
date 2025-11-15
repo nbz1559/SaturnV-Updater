@@ -1,3 +1,8 @@
+# Updater - Version 1.45
+- Fixed some issues with UI
+- Added support for GTA Enhanced
+
+
 # Menu - Version 11.4.0
 - Fixed some issues with activation and the UI
 
